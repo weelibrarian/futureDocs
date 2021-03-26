@@ -31,5 +31,9 @@ bundle exec serve
 
 [link to asset](_site/assets/js/search-data.json)
 ## Level 2
+Fun things for a rainy day:
+* baking
+* reading 
+
 ## Level 3
 
