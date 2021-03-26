@@ -13,7 +13,7 @@ This is a test document that outlines good documentation practices.
 
 ## Create Content
 * Determine steps to be documented
-Order list in sequence
+* Order list in sequence
 
 ## Content considerations
 * Be clear
