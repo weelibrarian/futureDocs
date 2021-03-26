@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# Documentation Test
+# Documentation Fun!
 This is a test site for documentation based on a Code4Lib workshop, 2021. Site includes:
 * test website
 * test content
